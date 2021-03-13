@@ -43,9 +43,9 @@ event: Force of Gossip Talk Series
 event_url: https://bit.ly/36RoZyG
 publishDate: 2021-03-13T19:55:21.235Z
 draft: false
-featured: true
+featured: false
 image:
-  filename: featured
+  filename: FoG Talk Series
   focal_point: Smart
   preview_only: false
 ---
