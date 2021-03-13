@@ -26,13 +26,9 @@ experience:
     location: ''
     date_start: '2019-10-01'
     date_end: ''
-    description: ''
-    
-  - title: Graduate Teaching Assistant
-    company: University of Southampton
-    company_url: ''
-    location: ''
-    date_start: '2016-09-01'
-    date_end: '2019-09-31'
-    description: ''
+    description: |2- 
+    Responsibilities include:
+        * Guiding students in finding their research topic
+        * Organising and supervising data collection
+        * Second-grader for Master Thesis
 ---
