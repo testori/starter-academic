@@ -9,7 +9,6 @@ authors:
   - Elena Martinescu
   - Bianca Beersma
 doi: "10.1177/1059601121992887 "
-url_pdf: "uploads/integrative.pdf"
 abstract: >-
   The omnipresence of workplace gossip makes understanding gossip processes
 
@@ -55,6 +54,8 @@ tags:
   - definition
   - dimensional scaling framework
   - systematic review
+slides: ""
+url_pdf: "uploads/integrative.pdf"
 image:
   filename: featured
   focal_point: ""
