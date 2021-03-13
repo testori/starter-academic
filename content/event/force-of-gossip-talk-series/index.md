@@ -32,7 +32,6 @@ abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
   If you wish to invite other colleagues, please forward this link
   (https://bit.ly/36RoZyG ) and they will receive information for the Zoom
   link.\\ 
-{{% staticref "media/FoG2021.pdf" "newtab" %}}Download the Spring Program 2021{{% /staticref %}}
    "
 location: Zoom
 date: 2021-03-11T15:00:00.000Z
@@ -50,3 +49,4 @@ image:
   preview_only: false
   filename: Force of Gossip.png
 ---
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FoG2021.pdf" "newtab" >}}resumé{{< /staticref >}}.
