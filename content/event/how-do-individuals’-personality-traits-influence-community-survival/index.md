@@ -16,17 +16,20 @@ abstract: >-
 
 
   Our research provides a mathematical framework linking psychopathic traits to the dynamics of community resources and survival, broadening the literature that focuses mainly on the impact of psychopathy on individuals. Based on our results, we claim that particular aspects of psychopathy present, to different degrees, in the general population (such as fearless behaviours, callousness and boldness) can be beneficial in harmful situations, providing an advantage for survival.
-location: STEM for BRITAIN 2019
+location: |-
+  STEM for BRITAIN 2019
+  BAMC 2019
+  4C Modelling Workshop 2019
 date: 2019-03-13T16:00:47.719Z
 date_end: 2019-03-13T19:00:00.000Z
 all_day: true
-event: STEM for BRITAIN - House of Commons (London, UK)
-event_url: https://stemforbritain.org.uk/
+event: STEM for BRITAIN 2019; BAMC 2019
+event_url: https://stemforbritain.org.uk/  http://conferences.academicjournals.org/cat/physical-sciences/british-applied-mathematics-colloquium
 publishDate: 2021-03-13T18:56:47.756Z
 draft: false
 featured: false
 image:
   filename: stem2019.jpg
-  focal_point: "topright"
+  focal_point: topright
   preview_only: true
 ---
