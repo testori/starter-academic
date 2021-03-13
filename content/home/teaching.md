@@ -26,7 +26,7 @@ experience:
     location: ''
     date_start: '2019-10-01'
     date_end: ''
-    description: Guiding students in finding their research topic; Organising and supervising data collection; Second-grader for Master Thesis
+    description: 'Guiding students in finding their research topic. Organising and supervising data collection. Second-grader for Master Thesis'
         
   - title: Graduate Teaching Assistant
     company: University of Southampton
@@ -34,5 +34,5 @@ experience:
     location: ''
     date_start: '2016-09-01'
     date_end: '2019-09-31'
-    description: Demonstrating to medium classes (roughly 30 students); Assisting students 1-1; Marking exams
+    description: 'Demonstrating to medium classes (roughly 30 students). Assisting students 1-1. Marking exams'
 ---
