@@ -27,7 +27,7 @@ abstract: >-
   advantageous for individuals.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ""
 title: Do psychopathic people help us to survive?
 location: "University of Leicester "
 date: 2018-04-08T22:00:00.000Z
