@@ -17,6 +17,11 @@ content:
       tag: ABM
     - name: Gossip
       tag: Gossip
+    - name: Inequality
+      tag: Inequality
+    - name: Taxation
+      tag: Taxation
+      
 design:
   columns: "2"
   view: 2
