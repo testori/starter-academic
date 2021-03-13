@@ -44,7 +44,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Guiding students in finding their research question
-        * Organising and supervising data collection
-        * Second grader for Master thesis
+        * Teaching classes of max 30 students
+        * Teaching students one-to-one
+        * Marking exams
 ---
