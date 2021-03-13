@@ -20,6 +20,6 @@ main:
     url: '#featured'
     weight: 60
   - name: Events
-    url: '#talks'
+    url: '#events'
     weight: 40
  
