@@ -15,6 +15,7 @@ subtitle: Collaboration with Sergio Lo Iacono & Per Anderson
 tags:
   - Cooperation
   - Inequality
+  - Taxation
 links: []
 image:
   caption: ""
