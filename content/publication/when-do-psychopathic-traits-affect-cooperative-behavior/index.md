@@ -9,7 +9,6 @@ abstract: Personality traits have been long recognized to have a strong impact
   underline the crucial importance of a good model selection procedure, showing
   how a poor choice of statistical model can provide misleading results.
 slides: ""
-url_pdf: content/publication/how-group-composition-affects-cooperation-in-fixed-networks-can-psychopathic-traits-influence-group-dynamics/file.pdf
 publication_types:
   - "2"
 authors:
@@ -34,7 +33,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2021-03-13T18:11:55.866Z
+date: 2019-01-13T18:11:55.866Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
