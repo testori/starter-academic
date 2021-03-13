@@ -29,7 +29,7 @@ abstract: |-
   dynamics, and it emphasizes the importance of individual
   characteristics when investigating group behaviours
 slides: ""
-url_pdf: ""
+url_pdf: "content/publication/how-group-composition-affects-cooperation-in-fixed-networks-can-psychopathic-traits-influence-group-dynamics/file.pdf"
 publication_types:
   - "2"
 authors:
