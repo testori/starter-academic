@@ -34,7 +34,7 @@ all_day: true
 event: "2nd SUMMER SCHOOL on Psychological Game Theory: Modeling Emotions
   with   Economic Theory - Soleto (IT)"
 event_url: "https://giuseppeattanasi.wixsite.com/index/psygames-summer-school "
-featured: true
+featured: false
 authors: []
 url_video: ""
 url_slides: ""
