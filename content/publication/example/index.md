@@ -10,7 +10,8 @@ abstract: >-
   Why is it that groups can vary so much in their outcomes? We know that some people are better team players than others. In fact, job interviews and personality assessments often include questions about team skills.
 
 
-  But this assumes that only individual personality is relevant, not the interaction between people with various personality characteristics.[...]
+  But this assumes that only individual personality is relevant, not the interaction between people with various personality characteristics.
+
 
   https://theconversation.com/why-too-many-fearless-people-on-a-team-make-collaboration-less-likely-115904 
 slides: ""
