@@ -8,7 +8,7 @@ subtitle: null
 active: true
 content:
   page_type: event
-  count: 5
+  count: 1
   filters:
     author: ""
     category: ""
