@@ -5,7 +5,7 @@ abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
 
   \\
 
-  The event consists of 6 bi-weekly 1-hour sessions. Each session comprises
+  The event consists of 6 bi-weekly 1-hour sessions (first session: 11/03, last session: 20/05). Each session comprises
   two blitz talks (5/7 minutes talk & 10/8 minutes discussion) and one keynote
   talk (20 minutes talk & 10 minutes discussion).
 
