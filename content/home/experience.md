@@ -31,9 +31,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Guiding students 
+        * Organising and supervising data collection
+        * Second grader for Master thesis
         
   - title: Professor
     company: University X
