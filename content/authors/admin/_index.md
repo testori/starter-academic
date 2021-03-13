@@ -29,14 +29,14 @@ education:
   courses:
     - course: Ph.D. in Applied Mathematics
       institution: University of Southampton
-      year: 2021
+      year: 2020
     - course: MSc. Mathematics and Finance
       institution: University of Essex
       year: 2016
     - course: BSc in Pure Mathematics
       institution: Universitá degli Studi di Milano
       year: 2015
-email: ""
+email: m.testori@vu.nl
 superuser: true
 highlight_name: false
 ---
