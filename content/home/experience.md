@@ -41,5 +41,10 @@ experience:
     location: Southampton
     date_start: '2019-07-01'
     date_end: '2016-10-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Guiding students in finding their research question
+        * Organising and supervising data collection
+        * Second grader for Master thesis
 ---
