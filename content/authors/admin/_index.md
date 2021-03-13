@@ -44,4 +44,4 @@ My primary research interest focuses on human cooperation in the context of soci
 
 I employ both experimental methods and mathematical models (agent-based models) to investigate cooperative dynamics at both the individuals and the collective level.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
