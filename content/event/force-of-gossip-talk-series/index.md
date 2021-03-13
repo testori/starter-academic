@@ -3,7 +3,7 @@ title: Force of Gossip Talk Series
 abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
   2021.
 
-  \\ 
+  \\
 
   The event consists of 6 bi-weekly 1-hour sessions. Each session comprises
   two blitz talks (5/7 minutes talk & 10/8 minutes discussion) and one keynote
@@ -13,7 +13,7 @@ abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
   (https://www.fsw.vu.nl/nl/onderzoek/onderzoeksprojecten/force-gossip/index.as\
   px ) at the Vrije Universiteit Amsterdam (PI Bianca Beersma).
 
-  \\ 
+  \\
 
   In these talks, we aim to provide an international and interdisciplinary
   space to discuss recent developments in the study of gossip and reputation on
@@ -23,7 +23,7 @@ abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
   particularly committed to encouraging early career researchers to share their
   work giving them space to present in our blitz talks.
 
-  \\ 
+  \\
 
   Talks will be held every second Thursday at 16.00 CET (Amsterdam)/ 15.00 GMT
   (London)/ 10.00 EST (New York)/ 23.00 CST (Shanghai). Please find attached the
@@ -43,7 +43,7 @@ event: Force of Gossip Talk Series
 event_url: https://bit.ly/36RoZyG
 publishDate: 2021-03-13T19:55:21.235Z
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
