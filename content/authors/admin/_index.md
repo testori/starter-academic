@@ -42,7 +42,7 @@ email: m.testori@vu.nl
 superuser: true
 highlight_name: false
 ---
-My primary research interest focuses on human cooperation in the context of social dilemmas both at the individual and collective level. In particular, I focus on understanding how exogenous (e.g. group composition, organisational/network structure, information flow, gossip) and endogenous (e.g. personality traits) factors improve or deplete cooperation. 
+My primary research interest focuses on human cooperation in the context of social dilemmas. In particular, I focus on understanding how exogenous (e.g. group composition, organisational/network structure, information flow, gossip) and endogenous (e.g. personality traits) factors improve or deplete cooperation. 
 
 I employ both experimental methods and mathematical models (agent-based models) to investigate cooperative dynamics at both the individuals and the collective level.
 
