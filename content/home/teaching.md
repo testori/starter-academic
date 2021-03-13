@@ -23,7 +23,7 @@ experience:
   - title: Master Students Supervision
     company: Vrije Universiteit Amsterdam
     company_url: ''
-    location: 
+    location: ''
     date_start: '2019-10-01'
     date_end: ''
     description: |2-
@@ -35,7 +35,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: University of Southampton
     company_url: ''
-    location: 
+    location: ''
     date_start: '2016-09-01'
     date_end: '2019-09-31'
     description: |2-
