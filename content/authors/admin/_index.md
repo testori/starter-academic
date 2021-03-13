@@ -1,6 +1,6 @@
 ---
 title: Martina Testori
-role: Post-doctoral researcher
+role: ""
 avatar_filename: selfie.jpg
 bio: I obtained my Ph.D. in Mathematical Sciences from University of Southampton
   in 2020. I employe both empirical and computational models to study the
