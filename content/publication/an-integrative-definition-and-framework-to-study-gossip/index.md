@@ -13,6 +13,8 @@ author_notes:
   - Amsterdam
   - the Netherlands
 doi: "10.1177/1059601121992887 "
+url_pdf: "content/publication/
+an-integrative-definition-and-framework-to-study-gossip/file.pdf"
 abstract: >-
   The omnipresence of workplace gossip makes understanding gossip processes
 
