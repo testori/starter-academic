@@ -24,7 +24,7 @@ date: 2019-03-13T16:00:47.719Z
 date_end: 2019-03-13T19:00:00.000Z
 all_day: true
 event: STEM for BRITAIN 2019; BAMC 2019
-event_url: https://stemforbritain.org.uk/  http://conferences.academicjournals.org/cat/physical-sciences/british-applied-mathematics-colloquium
+event_url: "https://stemforbritain.org.uk/  "
 publishDate: 2021-03-13T18:56:47.756Z
 draft: false
 featured: false
