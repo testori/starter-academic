@@ -35,7 +35,7 @@ date_end: 2018-04-08T22:25:00.000Z
 all_day: true
 event: MPDEE 2018
 event_url: http://web.mat.bham.ac.uk/N.B.Petrovskaya/mpdee18.htm
-featured: false
+featured: true
 authors: []
 url_video: ""
 url_slides: ""
