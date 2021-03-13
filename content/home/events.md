@@ -1,5 +1,5 @@
 ---
-widget: featured
+widget: pages
 widget_id: events
 headless: true
 weight: 50
