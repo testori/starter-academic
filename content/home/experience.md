@@ -31,15 +31,15 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Guiding students 
+        * Guiding students in finding their research question
         * Organising and supervising data collection
         * Second grader for Master thesis
         
-  - title: Professor
-    company: University X
+  - title: Graduate Teaching Assistant
+    company: University of Southampton
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
+    location: Southampton
+    date_start: '2019-07-01'
+    date_end: '2016-10-01'
     description: Taught electronic engineering and researched semiconductor physics.
 ---
