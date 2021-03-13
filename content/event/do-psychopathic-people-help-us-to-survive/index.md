@@ -29,11 +29,11 @@ slides: ""
 url_pdf: ""
 summary: ""
 title: Do psychopathic people help us to survive?
-location: "University of Leicester "
+location: "MPDEE 2018 "
 date: 2018-04-08T22:00:00.000Z
 date_end: 2018-04-08T22:25:00.000Z
 all_day: true
-event: MPDEE 2018
+event: MPDEE 2018 - University of Leicester (UK)
 event_url: http://web.mat.bham.ac.uk/N.B.Petrovskaya/mpdee18.htm
 featured: true
 authors: []
