@@ -28,7 +28,6 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
         * Guiding students in finding their research topic
         * Organising and supervising data collection
         * Second-grader for Master Thesis
@@ -41,7 +40,6 @@ experience:
     date_end: '2019-09-31'
     description: |2-
         Responsibilities include:
-        
         * Demonstrating to medium classes (roughly 30 students)
         * Assisting students 1-1
         * Marking large batches of exams
