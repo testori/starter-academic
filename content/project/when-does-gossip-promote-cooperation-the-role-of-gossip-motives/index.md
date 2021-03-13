@@ -9,7 +9,9 @@ external_link: '""'
 url_slides: ""
 subtitle: Collaboration with Bianca Beersma & Charlotte Hemelrijk
 tags:
-  - Deep Learning
+  - ABM
+  - Cooperation
+  - Gossip
 links: []
 image:
   caption: ""
