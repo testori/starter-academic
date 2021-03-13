@@ -1,3 +1,4 @@
+<img src="FoG.png">
 ---
 title: Force of Gossip Talk Series
 abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
