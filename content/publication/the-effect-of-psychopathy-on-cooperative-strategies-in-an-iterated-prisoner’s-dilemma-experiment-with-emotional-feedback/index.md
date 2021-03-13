@@ -19,7 +19,7 @@ abstract: As decision-making research becomes more popular, the inclusion of
   traits and social interactions, considering not only the environment of facial
   feedback but also the role of deception in experimental games.
 slides: ""
-url_pdf: ""
+url_pdf: "content/publication/the-effect-of-psychopathy-on-cooperative-strategies-in-an-iterated-prisoner’s-dilemma-experiment-with-emotional-feedback/file.pdf"
 publication_types:
   - "2"
 authors:
