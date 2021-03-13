@@ -11,10 +11,12 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+    - name: Cooperation
+      tag: Cooperation
+    - name: ABM
+      tag: ABM
+    - name: Gossip
+      tag: Gossip
 design:
   columns: "2"
   view: 2
