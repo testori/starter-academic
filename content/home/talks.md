@@ -1,5 +1,5 @@
 ---
-widget: events
+widget: pages
 widget_id: conferences
 headless: true
 weight: 70
