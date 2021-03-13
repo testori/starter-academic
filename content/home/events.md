@@ -3,7 +3,7 @@ widget: pages
 widget_id: events
 headless: true
 weight: 50
-title: Events
+title: Events & Conferences
 subtitle: null
 active: true
 content:
