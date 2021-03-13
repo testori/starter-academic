@@ -11,6 +11,8 @@ abstract: >-
 
 
   But this assumes that only individual personality is relevant, not the interaction between people with various personality characteristics.[...]
+
+  https://theconversation.com/why-too-many-fearless-people-on-a-team-make-collaboration-less-likely-115904 
 slides: ""
 url_pdf: ""
 publication_types:
@@ -27,7 +29,7 @@ publication_short: ""
 url_source: ""
 url_video: ""
 title: Why too many fearless people on a team make collaboration less likely
-doi: https://theconversation.com/why-too-many-fearless-people-on-a-team-make-collaboration-less-likely-115904
+doi: ""
 featured: true
 tags: []
 projects: []
