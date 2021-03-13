@@ -45,7 +45,7 @@ publishDate: 2021-03-13T19:55:21.235Z
 draft: false
 featured: false
 image:
-  filename: FoG Talk Series
+  filename: "uploads/FoG Talk Series.jpg"
   focal_point: Smart
   preview_only: false
 ---
