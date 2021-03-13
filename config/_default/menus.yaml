@@ -15,11 +15,11 @@ main:
     weight: 30
   - name: Conferences
     url: '#talks'
-    weight: 40
+    weight: 50
   - name: Media Coverage
     url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
     weight: 60
+  - name: Events
+    url: '#talks'
+    weight: 40
  
