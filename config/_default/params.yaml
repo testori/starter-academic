@@ -29,6 +29,7 @@ address:
   postcode: '1081  HV'
   country: Netherlands
   country_code: NL
+  contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
