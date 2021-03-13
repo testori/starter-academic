@@ -1,4 +1,3 @@
-{{<img src="FoG.png">}}
 ---
 title: Force of Gossip Talk Series
 abstract: "We are happy to announce the Force of Gossip Talk Series – Spring
@@ -52,3 +51,4 @@ image:
   filename: Force of Gossip.png
 ---
    {{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/FoG2021.pdf" "newtab" >}} Spring Program 2021{{< /staticref >}}.
+<img src="FoG.png">
