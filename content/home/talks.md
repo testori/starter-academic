@@ -7,7 +7,7 @@ title: Conferences
 subtitle: null
 content:
   page_type: talk
-  count: 5
+  count: 4
   filters:
     author: ""
     category: ""
