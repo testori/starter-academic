@@ -26,12 +26,13 @@ slides: ""
 url_pdf: ""
 summary: ""
 title: "Can psychopaths affect group dynamics? "
-location: Soleto
+location: "2nd SUMMER SCHOOL on Psychological Game Theory: Modeling Emotions
+  with   Economic Theory"
 date: 2018-07-26T09:30:07.888Z
 date_end: 2018-07-25T22:00:00.000Z
 all_day: true
 event: "2nd SUMMER SCHOOL on Psychological Game Theory: Modeling Emotions
-  with   Economic Theory"
+  with   Economic Theory - Soleto (IT)"
 event_url: "https://giuseppeattanasi.wixsite.com/index/psygames-summer-school "
 featured: true
 authors: []
