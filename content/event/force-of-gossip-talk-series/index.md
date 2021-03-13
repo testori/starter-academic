@@ -45,7 +45,8 @@ publishDate: 2021-03-13T19:55:21.235Z
 draft: false
 featured: false
 image:
-  filename: FoG Talk Series.png
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
+  filename: Force of Gossip.png
 ---
