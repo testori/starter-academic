@@ -23,6 +23,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/martina-testori-phd-776677b3/
 organizations:
+  - name: Post-doctoral Researcher
+    url: https://fsw.vu.nl/nl/onderzoek/onderzoeksprojecten/force-gossip/index.aspx
   - name: Vrije Universiteit Amsterdam
     url: https://www.vu.nl/en/
 education:
