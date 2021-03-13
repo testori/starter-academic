@@ -2,7 +2,7 @@
 widget: featured
 widget_id: mediacoverage
 headless: true
-weight: 80
+weight: 60
 title: Media Coverage
 subtitle: ""
 content:
