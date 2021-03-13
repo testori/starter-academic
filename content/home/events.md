@@ -2,7 +2,7 @@
 widget: pages
 widget_id: events
 headless: true
-weight: 70
+weight: 50
 title: Events
 subtitle: null
 active: false
