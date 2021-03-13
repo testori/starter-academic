@@ -29,7 +29,8 @@ publishDate: 2021-03-13T18:56:47.756Z
 draft: false
 featured: false
 image:
-  filename: "/uploads/stem2019.jpg"
-  focal_point: topright
-  preview_only: true
+  caption: ""
+  focal_point: ""
+  preview_only: false
+  filename: stem2019.jpg
 ---
