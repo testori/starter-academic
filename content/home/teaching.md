@@ -1,8 +1,9 @@
 ---
 widget: experience
-widget_id: teaching
+widget_id: experience
 headless: true
 weight: 40
+title: Teaching
 active: true
 design:
   columns: "2"
