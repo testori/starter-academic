@@ -6,7 +6,7 @@ weight: 70
 title: Conferences
 subtitle: null
 content:
-  page_type: event
+  page_type: talk
   count: 5
   filters:
     author: ""
