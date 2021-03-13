@@ -30,7 +30,7 @@ abstract: |-
   characteristics when investigating group behaviours.
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: ""
 title: Can psychopaths affect group dynamics?
 location: Soleto
 date: 2018-07-26T09:30:00.000Z
@@ -44,11 +44,11 @@ authors: []
 url_video: ""
 url_slides: ""
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 links: []
 publishDate: 2021-03-13T18:45:00.510Z
 tags: []
