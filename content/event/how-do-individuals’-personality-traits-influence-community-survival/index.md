@@ -34,3 +34,4 @@ image:
   preview_only: false
   filename: stem2019.jpg
 ---
+<img src="stem2019.jpg">
