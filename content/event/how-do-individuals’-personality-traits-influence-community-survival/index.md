@@ -27,6 +27,6 @@ draft: false
 featured: false
 image:
   filename: stem2019.jpg
-  focal_point: ""
+  focal_point: topright
   preview_only: false
 ---
