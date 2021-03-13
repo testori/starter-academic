@@ -12,7 +12,7 @@ author_notes:
   - Vrije Universiteit Amsterdam
   - Amsterdam
   - the Netherlands
-doi: 10.1177/1059601121992887
+doi: "10.1177/1059601121992887 "
 abstract: >-
   The omnipresence of workplace gossip makes understanding gossip processes
 
