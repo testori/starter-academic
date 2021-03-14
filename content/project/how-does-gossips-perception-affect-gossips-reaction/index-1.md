@@ -1,7 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-title: How does gossip's perception affect gossip's reaction?
+title: Selfish risk-seeking can provide an evolutionary advantage in a
+  conditional cooperator public goods game.
 summary: ""
 url_video: ""
 date: 2021-03-14T10:14:31.034Z
