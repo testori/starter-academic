@@ -40,7 +40,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2019-01-14T12:02:10.442Z
+date: 2019-01-01T12:02:10.442Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
