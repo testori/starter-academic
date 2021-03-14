@@ -26,6 +26,6 @@ content:
       
 design:
   columns: "4"
-  view: 1
+  view: 2
   flip_alt_rows: false
 ---
