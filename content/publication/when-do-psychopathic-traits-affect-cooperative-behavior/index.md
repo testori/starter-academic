@@ -25,7 +25,7 @@ url_video: ""
 title: "When Do Psychopathic Traits Affect Cooperative Behavior? "
 subtitle: An Iterated Prisoner’s Dilemma Experimental Study
 doi: https://doi.org/10.1027/1614-0001/a000295
-featured: false
+featured: true
   - Cooperation
   - Psychopathy
   - Facial feedback
