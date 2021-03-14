@@ -11,7 +11,8 @@ url_slides: ""
 subtitle: Collaboration with Hedwig Eisenbarth & Rebecca Hoyle
 tags:
   - Cooperation
-  - Gossip
+  - ABM
+  - Personality
 links: []
 image:
   caption: ""
