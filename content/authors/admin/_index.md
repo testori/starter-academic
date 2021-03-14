@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/martina_testori
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=KR-2YYEAAAAJ&hl=en
   - icon: linkedin
     icon_pack: fab
