@@ -28,7 +28,7 @@ authors:
   - Rebecca B. Hoyle & Hedwig Eisenbarth
 author_notes: []
 publication: Scientific Reports
-summary: ""
+summary: "*Published in: Scientific Reports*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
