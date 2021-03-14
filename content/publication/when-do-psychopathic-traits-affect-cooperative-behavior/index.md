@@ -33,7 +33,7 @@ tags:
   - Cooperation
   - Psychopathy
   - Facial feedback
-  - Strategies
+  - Statistical analysis
 projects: []
 image:
   caption: ""
