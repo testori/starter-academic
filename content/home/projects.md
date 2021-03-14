@@ -19,7 +19,7 @@ content:
       tag: Gossip
     - name: Inequality
       tag: Inequality
-    - name: Taxation
+    - name: Redistribution
       tag: Taxation
       
 design:
