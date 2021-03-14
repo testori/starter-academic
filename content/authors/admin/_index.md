@@ -2,10 +2,7 @@
 title: Martina Testori
 role: ""
 avatar_filename: selfie.jpg
-bio: I obtained my Ph.D. in Mathematical Sciences from University of Southampton
-  in 2020. I employe both empirical and computational models to study the
-  evolution of cooperation and the role of reputation and gossip in promoting
-  prosociality.
+bio: ""
 interests:
   - Cooperation
   - Reputation
