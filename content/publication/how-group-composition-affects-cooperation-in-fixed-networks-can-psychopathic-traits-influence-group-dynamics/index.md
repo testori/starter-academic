@@ -37,7 +37,7 @@ authors:
   - Rebecca B. Hoyle and Hedwig Eisenbarth
 author_notes: []
 publication: Royal Society Open Science
-summary: ""
+summary: "*Published in: Royal Society Open Science*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
