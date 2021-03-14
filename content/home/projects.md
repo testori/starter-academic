@@ -25,7 +25,7 @@ content:
       tag: Personality
       
 design:
-  columns: "3"
-  view: 4
+  columns: "4"
+  view: 1
   flip_alt_rows: false
 ---
