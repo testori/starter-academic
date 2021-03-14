@@ -47,7 +47,10 @@ title: "How group composition affects cooperation in fixed networks: can
   psychopathic traits influence group dynamics?"
 doi: http://dx.doi.org/10.1098/rsos.181329
 featured: false
-tags: []
+tags:
+  - Cooperation
+  - Psychopathy
+  - Network
 projects: []
 image:
   caption: ""
