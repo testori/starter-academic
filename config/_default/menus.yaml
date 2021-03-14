@@ -10,13 +10,13 @@ main:
   - name: Publications
     url: '#publications'
     weight: 20
-  - name: Research Projects
+  - name: Research 
     url: '#projects'
     weight: 30
   - name: Teaching
     url: '#experience'
     weight: 40
-  - name: Media Coverage
+  - name: Media 
     url: '#featured'
     weight: 60
   - name: Events & Conferences
