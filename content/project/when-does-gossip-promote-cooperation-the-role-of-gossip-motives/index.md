@@ -2,7 +2,7 @@
 slides: example
 url_pdf: ""
 title: When Does Gossip Promote Cooperation? The Role of Gossip Motives
-summary: "*Currently in the writing up stage*"
+summary: "*Currently: Writing up stage*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
 external_link: ""
