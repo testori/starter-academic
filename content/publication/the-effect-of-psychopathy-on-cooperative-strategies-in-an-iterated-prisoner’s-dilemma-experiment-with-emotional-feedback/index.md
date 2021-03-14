@@ -38,7 +38,11 @@ title: The effect of psychopathy on cooperative strategies in an iterated
   Prisoner’s Dilemma experiment with emotional feedback
 doi: https://doi.org/10.1038/s41598-019-38796-0
 featured: false
-tags: []
+tags:
+  - Cooperation
+  - Psychopathy
+  - Facial feedback
+  - Strategies
 projects: []
 image:
   caption: ""
