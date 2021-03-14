@@ -9,7 +9,7 @@ abstract: Personality traits have been long recognized to have a strong impact
   underline the crucial importance of a good model selection procedure, showing
   how a poor choice of statistical model can provide misleading results.
 slides: ""
-url_pdf: uploads/scientificreports.pdf
+url_pdf: ""
 publication_types:
   - "2"
 authors:
@@ -40,7 +40,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2021-03-14T12:02:10.442Z
+date: 2019-01-14T12:02:10.442Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
