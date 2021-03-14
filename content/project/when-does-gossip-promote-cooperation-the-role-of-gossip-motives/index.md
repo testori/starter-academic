@@ -5,7 +5,7 @@ title: When Does Gossip Promote Cooperation? The Role of Gossip Motives
 summary: "*Currently in the writing up stage*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
-external_link: " "
+external_link: ""
 url_slides: ""
 subtitle: Collaboration with Bianca Beersma & Charlotte Hemelrijk
 tags:
