@@ -18,7 +18,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=KR-2YYEAAAAJ&hl=en
   - icon: osf
     icon_pack: ai
-    link: https://osf.io/dashboard
+    link: https://osf.io/profile/
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/martina-testori-phd-776677b3/
