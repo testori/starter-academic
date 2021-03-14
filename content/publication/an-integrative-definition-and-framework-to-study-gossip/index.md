@@ -50,10 +50,10 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - gossip
-  - definition
-  - dimensional scaling framework
-  - systematic review
+  - Gossip
+  - Definition
+  - Dimensional scaling framework
+  - Systematic review
 slides: ""
 url_pdf: "uploads/integrative.pdf"
 image:
