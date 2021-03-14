@@ -12,7 +12,7 @@ date: 2021-03-13T22:38:20.200Z
 categories:
   - Cooperation
   - Gossip
-external_link: " "
+external_link: ""
 url_slides: ""
 subtitle: Collaboration with Sergio Lo Iacono & Per Anderson
 tags:
