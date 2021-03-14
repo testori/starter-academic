@@ -13,7 +13,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/martina_testori
-  - icon: graduation-cap
+  - icon: google-scholar
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=KR-2YYEAAAAJ&hl=en
   - icon: linkedin
