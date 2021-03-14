@@ -17,7 +17,7 @@ tags:
   - Gossip
   - Definition
   - Dimensional scaling framework
-  - Systematic review
+  - Review
 slides: ""
 url_pdf: "uploads/integrative.pdf"
 image:
