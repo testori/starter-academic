@@ -41,6 +41,4 @@ risk-averse individual when the combination of social and environmental
 
 conditions is moderately challenging. Results support the theory that
 
-key aspects of psychopathic traits are not dysfunctional but rather evolutionarily
-
-advantageous for individuals.
+key aspects of psychopathic traits are not dysfunctional but rather evolutionarily advantageous for individuals.
