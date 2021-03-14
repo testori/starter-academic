@@ -16,7 +16,7 @@ authors:
   - Maximillian Kempf Rebecca B. Hoyle & Hedwig Eisenbarth
 author_notes: []
 publication: Journal of Individual Differences
-summary: ""
+summary: "*Published in: Journal of Individual Differences*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
