@@ -22,7 +22,7 @@ abstract: "The omnipresence of workplace gossip makes understanding gossip
   as in organizations. This can foster future theory development and hypothesis
   testing, ultimately helping organizations to manage gossip."
 slides: ""
-url_pdf: uploads/royalsoc.pdf
+url_pdf: uploads/integrative.pdf
 publication_types:
   - "2"
 authors:
