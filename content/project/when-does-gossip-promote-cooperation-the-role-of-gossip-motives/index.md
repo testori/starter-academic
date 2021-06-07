@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-title: First- versus Second-hand Information: Gossip Promotes Cooperation Only if Pro-socially Motivated
+title: When does gossip promote cooperation the role of gossip motives
 summary: "*Currently: Submitted*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
