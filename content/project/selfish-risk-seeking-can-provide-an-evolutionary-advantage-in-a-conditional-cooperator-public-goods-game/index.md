@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 title: Selfish risk-seeking can provide an evolutionary advantage in a
   conditional cooperator public goods game.
-summary: "*Currently: Submitted at PLOS ONE.*"
+summary: "*Currently: Submitted*"
 url_video: ""
 date: 2021-03-14T10:39:52.362Z
 external_link: ""
@@ -19,8 +19,22 @@ image:
   focal_point: ""
 url_code: ""
 ---
-The evolutionary framework of psychopathic traits has been broadly discussed in the literature. This paper aims at bringing a new perspective to the analysis of the evolutionary adaptiveness of psychopathic traits through the use of an agent-based model. 
-
-The model presented here focuses on some of the most defining aspects of psychopathy, namely selfishness, risk-seeking attitudes and anti-social behaviours, and explores whether these traits are evolutionarily advantageous when both environmental and social conditions vary. We modelled two agent types: selfish risk-seekers and generous risk-averse individuals. 
-
-Our model show that selfish risk-seekers outperform generous risk-averse individual when the combination of social and environmental conditions is moderately challenging. Results support the theory that key aspects of psychopathic traits are not dysfunctional but rather evolutionarily advantageous for individuals.
+While cooperation and risk aversion are considered to be evolutionarily
+advantageous in many circumstances, and selfish or risky behaviour
+can bring negative consequences for individuals and the community
+at large, selfish and risk-seeking behaviour is still often observed
+in human societies. In this paper we consider whether there are
+environmental and social conditions that favour selfish risk-seeking individuals
+within a community and whether tolerating such individuals
+may provide benefits to the community itself in some circumstances.
+We built an agent-based model including two types of agent - selfish
+risk-seeking and generous risk-averse - that harvest resources from the
+environment and share them (or not) with their community. We found
+that selfish risk-seekers can outperform generous risk-averse agents in
+conditions where their survival is moderately challenged, supporting
+the theory that selfish and risk-seeking traits combined are not dysfunctional
+but rather can be evolutionarily advantageous for agents.
+The benefit for communities is less clear, but when generous agents are
+unconditionally cooperative communities with a greater proportion of
+selfish risk-seeking agents grow to a larger population size suggesting
+some advantage to the community overall.
