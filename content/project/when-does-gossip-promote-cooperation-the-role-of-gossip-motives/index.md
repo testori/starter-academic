@@ -1,8 +1,8 @@
 ---
 slides: example
 url_pdf: ""
-title: When Does Gossip Promote Cooperation? The Role of Gossip Motives
-summary: "*Currently: Writing up stage*"
+title: First- versus Second-hand Information: Gossip Promotes Cooperation Only if Pro-socially Motivated
+summary: "*Currently: Submitted*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
 external_link: ""
@@ -18,8 +18,17 @@ image:
   focal_point: ""
 url_code: ""
 ---
-Gossip is a central characteristic of human interactions, and it occurs very frequently in teams and organisations (in the workplace, 90% of people engage in gossip - Grosser et al., 2012). Individuals have been found to gossip for different motives (Beersma & Van Kleef 2012, Dores Cruz at al. 2019), and such motives have been argued to be crucial for understanding the effects of this phenomenon (Grosser et al. 2012). Nevertheless, the impact of gossip motives on group functioning and performances has still to be investigated.
-
-In this paper, we propose an innovative method to tackle this question: an agent-based model that allows us to observe how different gossip motives affect group performance. Results show that agents who gossip pro-socially make the team more efficient, leading the group to achieve the goal faster than groups with agents who gossip pro-selfishly or to vent their emotions. Moreover, this result is consistent regardless of the population size and the importance that agents give to the gossip instances they receive.
-
-Thus, this model sheds light on how different gossip motives affect the team performances, opening the debate on how to optimise the team functioning given the gossip people engage in.
+Humans are often shown to cooperate with one another. Most of the mechanisms
+that foster cooperation among humans rely on reputation, which itself relies on the
+acquisition of information about other people’s behaviors. Gossip has been proposed
+as a cheap yet efficient tool to acquire information, and it has largely been proved to
+be an effective means to foster and maintain cooperation. However, empirical studies
+supporting this claim have ignored two aspects: (1) they often compared gossip
+to conditions in which no reputation was available, impeding a direct assessment of
+whether it is gossip that promotes cooperation or rather the introduction of a reputation
+system; and (2) they focused on pro-social gossip (e.g., gossip aimed at helping the
+receiver), neglecting the impact of other types of gossip. We show here that, in contrast
+with the widespread notion that gossip promotes cooperation, gossip mostly depletes
+cooperation compared to first-hand information. If lying is fruitful for individuals or
+if a group’s behavior is largely uncooperative, gossip leads to negative reputational
+information and decreased cooperation.
