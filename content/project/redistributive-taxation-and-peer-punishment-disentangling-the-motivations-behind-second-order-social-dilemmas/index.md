@@ -3,13 +3,13 @@ slides: example
 url_pdf: ""
 title: "Redistributive taxation and peer-punishment: disentangling the
   motivations behind second order social dilemmas"
-summary: "*Currently: Data collection stage at Université Côte d'Azur.*"
+summary: "*Currently: Writing up*"
 url_video: ""
 date: 2021-03-13T22:38:20.200Z
 categories:
   - Cooperation
   - Gossip
-external_link: ""
+external_link: " "
 url_slides: ""
 subtitle: Collaboration with Sergio Lo Iacono & Per Anderson
 tags:
