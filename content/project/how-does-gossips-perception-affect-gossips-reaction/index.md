@@ -2,10 +2,10 @@
 slides: example
 url_pdf: ""
 title: How does gossip's perception affect gossip's reaction?
-summary: "*Currently: Pre-registration and data collection (June-July 2021)*"
+summary: "*Currently: Data collection (October 2021)*"
 url_video: ""
 date: 2021-03-13T22:29:28.601Z
-external_link: ""
+external_link: " "
 url_slides: ""
 subtitle: "Collaboration with Terence Das Dorez Cruz & Bianca Beersma "
 tags:
