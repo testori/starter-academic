@@ -2,10 +2,10 @@
 slides: example
 url_pdf: ""
 title: When does gossip promote cooperation the role of gossip motives
-summary: "*Currently: Submitted*"
+summary: "*Currently: Under Review at Scientific Reports*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
-external_link: ""
+external_link: " "
 url_slides: ""
 subtitle: Collaboration with Bianca Beersma & Charlotte Hemelrijk
 tags:
