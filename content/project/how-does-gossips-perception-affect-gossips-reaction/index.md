@@ -24,3 +24,4 @@ Several empirical studies have highlighted how gossip is an efficient and effect
 A recent theoretical paper has highlighted a major lack in the literature studying gossip consequences (Lees & Barnes, 2020). To comprehensively understand gossip consequences, scholars are urged to examine how the perception of gossip by the hand of the receiver impact the consequences of gossip towards both the target and the sender of the statement.
 
 In this project, we investigate how gossip motives (Beersma & Van Kleef, 2011; Dores Cruz et al., 2019), as perceived by the receiver, affect the receiver’s propensity to cooperate towards the target and the sender of the gossip.
+ 
