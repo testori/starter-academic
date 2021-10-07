@@ -30,8 +30,9 @@ tags:
   - Definition
   - Category-Based Formalisation
 image:
-  filename: featured
-  focal_point: Smart
+  caption: "Author co-citation network on trust publications from 1990 to 2020. Data source: Web of Science. Data analysed with VOSviewer!"
+  focal_point: ""
   preview_only: false
+  filename: uploads/network.png
 date: 2021-10-07T08:40:02.603Z
 ---
