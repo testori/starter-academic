@@ -29,6 +29,7 @@ tags:
   - Trust
   - Definition
   - Category-Based Formalisation
+summary: "*Published Book Chapter in: Trust Matters Cross-Disciplinary Essays*"
 image:
   caption: "Author co-citation network on trust publications from 1990 to 2020. Data source: Web of Science. Data analysed with VOSviewer!"
   focal_point: ""
