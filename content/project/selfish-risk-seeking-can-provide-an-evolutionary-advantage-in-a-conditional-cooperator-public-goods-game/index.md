@@ -6,7 +6,7 @@ title: Selfish risk-seeking can provide an evolutionary advantage in a
 summary: "*Currently: Under Review*"
 url_video: ""
 date: 2021-03-14T10:39:52.362Z
-external_link: " "
+external_link: ""
 url_slides: ""
 subtitle: Collaboration with Hedwig Eisenbarth & Rebecca Hoyle
 tags:
