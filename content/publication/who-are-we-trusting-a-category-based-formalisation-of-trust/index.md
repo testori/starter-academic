@@ -4,10 +4,12 @@ title: Who Are We Trusting? A Category-Based Formalisation of Trust
 publication_types:
   - "6"
 authors:
-  - Sergio Lo Iacono; Martina Testori
+  - Sergio Lo Iacono
+  - Martina Testori
 draft: false
 featured: false
 url_pdf: uploads/book_chapter.pdf
+publication: "Trust Matter, Hart Publishing"
 image:
   filename: featured
   focal_point: Smart
