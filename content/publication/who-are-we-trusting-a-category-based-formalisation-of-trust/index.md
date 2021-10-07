@@ -25,6 +25,10 @@ draft: false
 featured: false
 publication: "Trust Matter, Hart Publishing"
 url_source: "https://www.bloomsburyprofessional.com/uk/trust-matters-9781509935253/"
+tags:
+  - Trust
+  - Definition
+  - Category-Based Formalisation
 image:
   filename: featured
   focal_point: Smart
