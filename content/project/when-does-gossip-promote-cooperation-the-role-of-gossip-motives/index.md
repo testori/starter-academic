@@ -1,11 +1,11 @@
 ---
 slides: example
 url_pdf: ""
-title: When does gossip promote cooperation the role of gossip motives
+title: Gossip promotes cooperation only when it is pro-socially motivated
 summary: "*Currently: Under Review at Scientific Reports*"
 url_video: ""
 date: 2021-03-13T19:27:08.315Z
-external_link: " "
+external_link: ""
 url_slides: ""
 subtitle: Collaboration with Bianca Beersma & Charlotte Hemelrijk
 tags:
@@ -24,7 +24,7 @@ acquisition of information about other people’s behaviors. Gossip has been pro
 as a cheap yet efficient tool to acquire information, and it has largely been proved to
 be an effective means to foster and maintain cooperation. However, empirical studies
 supporting this claim have ignored two aspects: (1) they often compared gossip
-to conditions in which no reputation was available, impeding a direct assessment of
+to treatments in which no reputation was available, impeding a direct assessment of
 whether it is gossip that promotes cooperation or rather the introduction of a reputation
 system; and (2) they focused on pro-social gossip (e.g., gossip aimed at helping the
 receiver), neglecting the impact of other types of gossip. We show here that, in contrast
