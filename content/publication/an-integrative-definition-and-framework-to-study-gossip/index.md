@@ -29,11 +29,11 @@ authors:
   - Terence D. Dores Cruz
   - Annika S. Nieper
   - Martina Testori
-  - ElenaMartinescu
-  - BiancaBeersma
+  - Elena Martinescu
+  - Bianca Beersma
 author_notes: []
 publication: " Group & Organization Management"
-summary: "*Published in:  Group & Organization Management*"
+summary: "*Published in: Group & Organization Management*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
