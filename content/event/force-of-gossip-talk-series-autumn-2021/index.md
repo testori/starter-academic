@@ -5,7 +5,7 @@ abstract: >-
 
   \
 
-  The event consists of 6 bi-weekly 1-hour sessions (first session: 14/10, last session: 9/12). Each session comprises two blitz talks (10 minutes talk & 5 minutes discussion) and one keynote talk (20 minutes talk & 10 minutes discussion).
+  The event consists of 5 bi-weekly 1-hour sessions (first session: 14/10, last session: 9/12). Each session comprises two blitz talks (10 minutes talk & 5 minutes discussion) and one keynote talk (20 minutes talk & 10 minutes discussion).
 
   The series is organised by the Force of Gossip team at the Vrije Universiteit Amsterdam (PI Bianca Beersma).
 
