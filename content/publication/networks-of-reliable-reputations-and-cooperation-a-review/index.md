@@ -30,8 +30,8 @@ authors:
   - Adam R. Kenny
   - Eleanor A. Power and Rafael P. M. Wittek
 author_notes: []
-publication: Philosophical Transactions B
-summary: "*Published in: Philosophical Transactions B*"
+publication: Philosophical Transactions of the Royal Society B: Biological Sciences
+summary: "*Published in: Philosophical Transactions of the Royal Society B: Biological Sciences*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
