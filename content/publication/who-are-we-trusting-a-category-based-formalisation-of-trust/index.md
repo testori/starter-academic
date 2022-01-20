@@ -3,7 +3,8 @@ title: Who Are We Trusting? A Category-Based Formalisation of Trust
 publication_types:
   - "6"
 authors:
-  - SergioLoIaconoMartinaTEstori
+  - Sergio Lo Iacono
+  - Martina Testori
 draft: false
 featured: false
 image:
