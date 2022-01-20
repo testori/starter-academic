@@ -1,6 +1,5 @@
 ---
-abstract: |-
-  Reputation has been shown to provide an informal solution to the problem
+abstract: "Reputation has been shown to provide an informal solution to the problem
   of cooperation in human societies. After reviewing models that connect
   reputations and cooperation, we address how reputation results from information
   exchange embedded in a social network that changes endogenously
@@ -17,27 +16,28 @@ abstract: |-
   and field studies across various disciplines that target these questions
   and could explain how the dynamics of interactions and reputations help or
   prevent the establishment and sustainability of cooperation in small- and
-  large-scale societies.
+  large-scale societies."
 slides: ""
-url_pdf: "uploads/reputation.pdf"
+url_pdf: uploads/reputation.pdf
 publication_types:
   - "2"
 authors:
-  - Károly Takács
+- Károly Takács
   - Jörg Gross
   - Martina Testori
   - Srebrenka Letina
   - Adam R. Kenny
-  - Eleanor A. Power and Rafael P. M. Wittek
+  - Eleanor A. Power
+  - Rafael P. M. Wittek
 author_notes: []
-publication: Philosophical Transactions of the Royal Society B: Biological Sciences
+publication: "Philosophical Transactions of the Royal Society B: Biological Sciences"
 summary: "*Published in: Philosophical Transactions of the Royal Society B: Biological Sciences*"
 url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: "Networks of reliable reputations and cooperation: a review"
+title: Networks of reliable reputations and cooperation: a review
 doi: https://doi.org/10.1098/rstb.2020.0297
 featured: false
 tags:
@@ -53,11 +53,12 @@ image:
   focal_point: ""
   preview_only: false
   filename: ""
-date: 2021-10-6T17:57:25.948Z
+date: 2021-03-14T12:07:01.654Z
 url_slides: ""
 publishDate: 2021-10-04T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
 <div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1098/rstb.2020.0297" data-hide-no-mentions="true" class="altmetric-embed"></div>
