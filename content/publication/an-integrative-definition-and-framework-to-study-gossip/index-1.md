@@ -23,8 +23,13 @@ url_pdf: uploads/royalsoc.pdf
 publication_types:
   - "2"
 authors:
+  - Károly Takács
+  - Jörg Gross
   - Martina Testori
-  - Rebecca B. Hoyle and Hedwig Eisenbarth
+  - Srebrenka Letina
+  - Adam R. Kenny
+  - Eleanor A. Power
+  - Rafael P. M. Wittek
 author_notes: []
 publication: "Philosophical Transactions of the Royal Society B: Biological Sciences"
 summary: "Published in: Philosophical Transactions of the Royal Society B:
@@ -34,7 +39,7 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An Integrative Definition and Framework to Study Gossip
+title: "Networks of reliable reputations and cooperation: a review"
 doi: https://doi.org/10.1098/rstb.2020.0297
 featured: false
 tags:
