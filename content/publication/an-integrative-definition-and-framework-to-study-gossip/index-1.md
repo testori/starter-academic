@@ -44,8 +44,11 @@ doi: https://doi.org/10.1098/rstb.2020.0297
 featured: false
 tags:
   - Cooperation
-  - Psychopathy
-  - Network
+  - Social networks
+  - Reputation
+  - Indirect reciprocity
+  - Intergroup relations
+  - Relational multiplexity
 projects: []
 image:
   caption: ""
