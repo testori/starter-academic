@@ -2,6 +2,7 @@
 title: "Networks of reliable reputations and cooperation: a review"
 publication_types:
   - "2"
+url_pdf: uploads/reputation.pdf
 authors:
   - Károly Takács   
   - Jörg Gross   
@@ -31,6 +32,8 @@ abstract: >-
     prevent the establishment and sustainability of cooperation in small- and
     large-scale societies.
 draft: false
+publication: "Philosophical Transactions of the Royal Society B: Biological Sciences"
+summary: "*Published in: Philosophical Transactions of the Royal Society B: Biological Sciences*"
 featured: false
 tags:
   - cooperation 
