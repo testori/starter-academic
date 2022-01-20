@@ -3,8 +3,13 @@ title: "Networks of reliable reputations and cooperation: a review"
 publication_types:
   - "2"
 authors:
-  - Károly Takács   - Jörg Gross   - Martina Testori   - Srebrenka Letina   -
-    Adam R. Kenny   - Eleanor A. Power   - Rafael P. M. Wittek
+  - Károly Takács   
+  - Jörg Gross   
+  - Martina Testori   
+  - Srebrenka Letina  
+  - Adam R. Kenny   
+  - Eleanor A. Power   
+  - Rafael P. M. Wittek
 doi: https://doi.org/10.1098/rstb.2020.0297
 abstract: >-
   Reputation has been shown to provide an informal solution to the problem
@@ -28,11 +33,19 @@ abstract: >-
 draft: false
 featured: false
 tags:
-  - cooperation   - social networks   - reputation   - indirect reciprocity   -
-    intergroup relations   - relational multiplexity
+  - cooperation 
+  - social networks 
+  - reputation 
+  - indirect reciprocity    
+  - intergroup relations   
+  - relational multiplexity
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 date: 2022-01-20T14:53:03.159Z
 ---
+<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+
+<div data-badge-details="right" data-badge-type="large-donut" data-doi="https://doi.org/10.1098/rstb.2020.0297" data-hide-no-mentions="true" class="altmetric-embed"></div>
+
