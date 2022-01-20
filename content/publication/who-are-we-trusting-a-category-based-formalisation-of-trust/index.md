@@ -5,7 +5,7 @@ publication_types:
 authors:
   - Sergio Lo Iacono
   - Martina Testori
-doi: https://www.bloomsbury.com/uk/trust-matters-9781509935253/
+url_pdf: https://www.bloomsbury.com/uk/trust-matters-9781509935253/
 abstract: In the last thirty years, trust has gained momentum across fields,
   from economics, psychology and sociology to philosophy and political science.
   The complexity of the notion has greatly grown, and various conceptualisations
