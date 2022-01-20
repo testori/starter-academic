@@ -24,7 +24,7 @@ social:
     link: https://www.linkedin.com/in/martina-testori-phd-776677b3/
 organizations:
   - name: Post-doctoral Researcher (ERC "Force of Gossip" grant 771391)
-    url: https://fsw.vu.nl/nl/onderzoek/onderzoeksprojecten/force-gossip/index.aspx
+    url: https://vu.nl/en/about-vu/research-institutes/force-of-gossip
   - name: Vrije Universiteit Amsterdam
     url: https://www.vu.nl/en/
 education:
