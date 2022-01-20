@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 title: Selfish risk-seeking can provide an evolutionary advantage in a
   conditional cooperator public goods game.
-summary: "*Currently: Under Review*"
+summary: "*Currently: In press at Plos One*"
 url_video: ""
 date: 2021-03-14T10:39:52.362Z
 external_link: ""
