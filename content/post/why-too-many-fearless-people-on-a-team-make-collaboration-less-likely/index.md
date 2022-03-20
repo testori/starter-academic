@@ -13,7 +13,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: conversation.jpg
+  filename: conversation.png
 ---
 Team work is common across society. From schools to multinational businesses, people usually collaborate in groups towards a shared goal.
 
