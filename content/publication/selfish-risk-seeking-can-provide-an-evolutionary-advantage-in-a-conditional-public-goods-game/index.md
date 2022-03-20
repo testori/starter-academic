@@ -3,6 +3,7 @@ title: Selfish risk-seeking can provide an evolutionary advantage in a
   conditional public goods game
 publication_types:
   - "2"
+url_pdf: uploads/journal.pone.0261340.pdf
 authors:
   - Martina Testori
   - Hedwig Eisenbarth
