@@ -4,7 +4,13 @@ widget_id: featured
 headless: true
 weight: 60
 title: Media Coverage
-active: true
+subtitle: ""
+content:
+  page_type: media
+  filters:
+    tag: ""
+    publication_type: ""
+    exclude_featured: true
 design:
   view: 2
 ---
