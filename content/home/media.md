@@ -1,5 +1,5 @@
 ---
-widget: featurette
+widget: featured
 widget_id: Media
 headless: true
 weight: 60
