@@ -16,7 +16,10 @@ main:
   - name: Teaching
     url: '#experience'
     weight: 40
-  - name: Events, Conferences & Other
+  - name: Events & Conferences 
     url: '#events'
+    weight: 50
+  - name: Media 
+    url: '#post'
     weight: 50
  
