@@ -2,7 +2,7 @@
 title: Why too many fearless people on a team make collaboration less likely
 subtitle: The Conversation
 date: 2022-03-20T21:54:27.631Z
-summary: <https://theconversation.com/why-too-many-fearless-people-on-a-team-make-collaboration-less-likely-115904>
+page_url: "https://theconversation.com/why-too-many-fearless-people-on-a-team-make-collaboration-less-likely-115904"
 draft: false
 featured: false
 tags:
