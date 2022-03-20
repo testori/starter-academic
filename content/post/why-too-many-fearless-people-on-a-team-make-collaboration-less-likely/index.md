@@ -10,9 +10,10 @@ tags:
   - Psychopathy
   - Cooperation
 image:
-  filename: featured
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
   preview_only: false
+  filename: conversation.jpg
 ---
 Team work is common across society. From schools to multinational businesses, people usually collaborate in groups towards a shared goal.
 
