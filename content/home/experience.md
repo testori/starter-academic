@@ -22,19 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 'Master Thesis Supervisor'
+  - title: 'Basic Teaching Qualification certification'
     company: Vrije Universiteit Amsterdam
     company_url: ''
     location: Amsterdam
-    date_start: '2019-10-01'
-    date_end: ''
+    date_start: '2021-09-01'
+    date_end: '2022-04-30'
+    description: |2-
+        Skills acquired:
+        
+        * Designing courses and supervising students
+        * Understanding of your beliefs and expectations about learning and teaching.
+        * Critically reflect on the intentions and effects of your actions as a teacher and come to conscious (new) action
+           
+  - title: 'Invited Lecturer'
+    company: Vrije Universiteit Amsterdam
+    company_url: ''
+    location: Amsterdam
+    date_start: '2021-10-01'
+    date_end: '2021-10-31'
     description: |2-
         Responsibilities include:
         
-        * Guiding students in finding their research question
-        * Organising and supervising data collection
-        * Second grader for Master thesis
-        
+        * Developing the materials and the lesson plan for the class
+        * Engaging a class of rougly 100 students in interactive learning, MA level        
+     
   - title: 'Master Thesis Supervisor'
     company: Vrije Universiteit Amsterdam
     company_url: ''
