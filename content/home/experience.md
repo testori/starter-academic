@@ -35,6 +35,19 @@ experience:
         * Organising and supervising data collection
         * Second grader for Master thesis
         
+  - title: 'Master Thesis Supervisor'
+    company: Vrije Universiteit Amsterdam
+    company_url: ''
+    location: Amsterdam
+    date_start: '2019-10-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Guiding students in finding their research question
+        * Organising and supervising data collection
+        * Second grader for Master thesis
+        
   - title: 'Graduate Teaching Assistant'
     company: University of Southampton
     company_url: ''
