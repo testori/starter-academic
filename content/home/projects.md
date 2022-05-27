@@ -21,8 +21,6 @@ content:
       tag: Inequality
     - name: Redistribution
       tag: Taxation
-    - name: Personality
-      tag: Personality
       
 design:
   columns: "2"
