@@ -22,7 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Basic Teaching Qualification BKO certification 
+
+- title: 'Basic Teaching Qualification BKO certification'
     company: Vrije Universiteit Amsterdam
     company_url: ''
     location: Amsterdam
@@ -36,7 +37,7 @@ experience:
         * Can reflect critically on the intentions and effects of your actions as a teacher and come to conscious (new) action; 
         * Have an understanding of the professional development path you want to take as a teacher. 
 
-- title: Invited Lecturer
+- title: 'Invited Lecturer'
     company: Vrije Universiteit Amsterdam
     company_url: ''
     location: Amsterdam
@@ -48,7 +49,7 @@ experience:
         * Developing the materials and the lesson plan for the class
         * Teaching class of roughly 100 students, MA level
         
-  - title: Master Thesis Supervisor
+  - title: 'Master Thesis Supervisor'
     company: Vrije Universiteit Amsterdam
     company_url: ''
     location: Amsterdam
@@ -61,7 +62,7 @@ experience:
         * Organising and supervising data collection
         * Second grader for Master thesis
         
-  - title: Graduate Teaching Assistant
+  - title: 'Graduate Teaching Assistant'
     company: University of Southampton
     company_url: ''
     location: Southampton
