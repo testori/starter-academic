@@ -6,6 +6,7 @@ authors:
   - Martina Testori
   - Charlotte K. Hemelrijk & Bianca Beersma
 doi: https://doi.org/10.1038/s41598-022-08670-7
+url_pdf: "uploads/scientificreports.pdf"
 publication: Scientific Reports
 abstract: >-
   Humans are often shown to cooperate with one another. Most of the mechanisms
