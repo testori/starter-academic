@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: 'Basic Teaching Qualification BKO certification'
+- title: Basic Teaching Qualification certification
     company: Vrije Universiteit Amsterdam
     company_url: ''
     location: Amsterdam
     date_start: '2021-09-01'
     date_end: '2022-04-30'
-    description: >-
+    description: |2-
         Skills acquired:
         
         * Have an understanding of your beliefs and expectations about learning and teaching.
