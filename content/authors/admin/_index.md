@@ -6,9 +6,9 @@ bio: ""
 interests:
   - Cooperation
   - Reputation
-  - Gossip
-  - Conspiracy Theory
-  - Agent-based model
+  - Sustainable development
+  - Opinion dynamics
+  - Agent-Based Model
 social:
   - icon: twitter
     icon_pack: fab
@@ -23,10 +23,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/martina-testori-phd-776677b3/
 organizations:
-  - name: Post-doctoral Researcher (ERC "Force of Gossip" grant 771391)
-    url: https://vu.nl/en/about-vu/research-institutes/force-of-gossip
-  - name: Vrije Universiteit Amsterdam
-    url: https://www.vu.nl/en/
+  - name: Lecturer in Economic Sociology
+    url: https://www.gre.ac.uk/people/rep/faculty-of-business/martina-testori
+  - name: University of Greenwich
+    url: https://www.gre.ac.uk/bus
 education:
   courses:
     - course: Ph.D. in Applied Mathematics
@@ -38,12 +38,13 @@ education:
     - course: BSc in Pure Mathematics
       institution: Universitá degli Studi di Milano
       year: 2015
-email: m.testori@vu.nl
+email: m.testori@gre.ac.uk
 superuser: true
 highlight_name: false
 ---
-My primary research interest focuses on human cooperation in the context of social dilemmas. In particular, I focus on understanding how exogenous (e.g. group composition, organisational/network structure, information flow, gossip) and endogenous (e.g. personality traits) factors improve or deplete cooperation. 
-
-I employ both experimental methods and mathematical models (agent-based models) to investigate cooperative dynamics at both the individuals and the collective level.
+I am a computational social scientist studying how different means can be used to sustain cooperative and sustainable behaviours. 
+I look at how information, including gossip, and reputation impacts cooperation in groups and communities. 
+I am is also interested in how different interventions can promote more pro-environmental behaviours and the achievement of sustainable development. 
+I use experimental methods and agent-based modelling to investigate cooperative and socially sustainable dynamics at the individual and collective level.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
