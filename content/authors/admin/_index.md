@@ -29,6 +29,9 @@ organizations:
     url: https://www.gre.ac.uk/bus
 education:
   courses:
+    - course: Post Doctoral Fellow 
+      institution: Vrije Universiteit Amsterdam
+      year: 2023
     - course: Ph.D. in Applied Mathematics
       institution: University of Southampton
       year: 2020
