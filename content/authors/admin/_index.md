@@ -1,7 +1,7 @@
 ---
 title: Martina Testori
 role: ""
-avatar_filename: 
+avatar_filename: Martina-Testori.jpeg
 bio: ""
 interests:
   - Cooperation
