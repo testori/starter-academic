@@ -47,7 +47,6 @@ highlight_name: false
 ---
 I am a computational social scientist studying how different means can be used to sustain cooperative and sustainable behaviours. 
 I look at how information, including gossip, and reputation impacts cooperation in groups and communities. 
-I am is also interested in how different interventions can promote more pro-environmental behaviours and the achievement of sustainable development. 
+I am is expecially interested in how different interventions can promote more pro-environmental behaviours and the achievement of sustainable development. 
 I use experimental methods and agent-based modelling to investigate cooperative and socially sustainable dynamics at the individual and collective level.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
