@@ -12,6 +12,7 @@ tags:
   - Cooperation
   - Sustainability
   - Future Generations
+  - Climate Change
 links: []
 image:
   caption: ""
