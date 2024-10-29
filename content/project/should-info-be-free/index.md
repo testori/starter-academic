@@ -1,4 +1,3 @@
-
 ---
 slides: example
 url_pdf: ""
