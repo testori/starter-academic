@@ -1,5 +1,5 @@
 ---
-title: Punishing or praising gossipers: How people interpret the motives driving negative gossip shapes its consequences
+title: Punishing or praising gossipers How people interpret the motives driving negative gossip shapes its consequences
 publication_types:
   - "2"
 authors:
