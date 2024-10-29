@@ -11,7 +11,7 @@ subtitle: Collaboration with Bianca Beersma & Myriam Bechtold
 tags:
   - Climate Change Campaigns
   - Cooperation
-  - Climate Action
+  - Climate Change
   - Gossip
 links: []
 image:
