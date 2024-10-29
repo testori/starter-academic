@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-- title: 'Lecturer'
+  - title: 'Lecturer'
     company: University of Greenwich
     company_url: ''
     location: London
