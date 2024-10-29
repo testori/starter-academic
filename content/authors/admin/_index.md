@@ -41,12 +41,12 @@ education:
     - course: BSc in Pure Mathematics
       institution: Universitá degli Studi di Milano
       year: 2015
-email: m.testori@gre.ac.uk
+email: testori.martina@gmail.com
 superuser: true
 highlight_name: false
 ---
 I am a computational social scientist studying how different means can be used to sustain cooperative and sustainable behaviours. 
 I look at how information, including gossip, and reputation impacts cooperation in groups and communities. 
-I am is expecially interested in how different interventions can promote more pro-environmental behaviours and the achievement of sustainable development. 
+I am especially interested in how different interventions can promote more pro-environmental behaviours and the achievement of sustainable development. 
 I use experimental methods and agent-based modelling to investigate cooperative and socially sustainable dynamics at the individual and collective level.
 

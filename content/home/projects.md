@@ -17,8 +17,9 @@ content:
       tag: ABM
     - name: Gossip
       tag: Gossip
-    - name: Inequality
-      tag: Inequality
+    - name: Climate Change
+      tag: Climate Change
+      tag: Climate Change Campaigns
     - name: Redistribution
       tag: Taxation
       
