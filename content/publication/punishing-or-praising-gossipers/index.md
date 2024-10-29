@@ -9,25 +9,7 @@ doi: https://doi.org/10.1111/spc3.12924
 url_pdf: "uploads/punishing.pdf"
 publication: Social and Personality Psychology Compass
 abstract: >-
-Sharing negative gossip has been found to be pivotal for
-fostering cooperation in social groups. The positive function
-gossip serves for groups suggests that gossipers should be
-rewarded for sharing useful information. In contrast, gossip
-is commonly perceived negatively, meaning that gossipers
-incur more social costs than benefits. To solve this puzzle,
-we argue that whether receivers interpret gossip as stemming from pro-social versus pro-self motives shapes their
-reactions towards gossipers. We conducted a pre-registered
-experimental vignette study (n = 1188) in which participants
-received negative gossip statements, which we manipulated
-to reflect either pro-self or pro-social motives. Supporting our predictions, receivers were more likely to mistakenly interpret negative pro-social gossip as stemming from
-pro-self motives than vice versa. Nevertheless, receivers
-with a higher ability to overcome intuition were better able
-to correctly interpret negative gossip as driven by pro-self
-and pro-social motives. Furthermore, results showed that
-when receivers interpreted negative gossip as pro-socially
-(vs. pro-selfishly) motivated, they trusted gossipers more
-and gossip targets less (for behavioral as well as attitudinal
-measures of trust).
+  Sharing negative gossip has been found to be pivotal for fostering cooperation in social groups. The positive function gossip serves for groups suggests that gossipers should be rewarded for sharing useful information. In contrast, gossip is commonly perceived negatively, meaning that gossipers incur more social costs than benefits. To solve this puzzle, we argue that whether receivers interpret gossip as stemming from pro-social versus pro-self motives shapes their reactions towards gossipers. We conducted a pre-registered experimental vignette study (n = 1188) in which participants received negative gossip statements, which we manipulated to reflect either pro-self or pro-social motives. Supporting our predictions, receivers were more likely to mistakenly interpret negative pro-social gossip as stemming from pro-self motives than vice versa. Nevertheless, receivers with a higher ability to overcome intuition were better able to correctly interpret negative gossip as driven by pro-self and pro-social motives. Furthermore, results showed that when receivers interpreted negative gossip as pro-socially (vs. pro-selfishly) motivated, they trusted gossipers more and gossip targets less (for behavioral as well as attitudinal measures of trust).
 draft: false
 featured: false
 tags:
