@@ -1,4 +1,3 @@
-
 ---
 title: The Importance of Conceptual Clarity and Methodological Diversity for Studying Confidential Gossip–a Response and Addition to Fan et al.(2021)
 publication_types:
