@@ -22,6 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+- title: 'Lecturer'
+    company: University of Greenwich
+    company_url: ''
+    location: London
+    date_start: '2023-05-15'
+    date_end: 'present'
+    description: |2-
+        Modules taughts and developed:
+        
+        * Big Data and Machine Learning
+        * Organisational Decision Making
+        * Organisational Analysis and Performance
+        * Foundations of Research
+     
   - title: 'Basic Teaching Qualification certification -- PGCert Equivalent'
     company: Vrije Universiteit Amsterdam
     company_url: ''

@@ -5,8 +5,9 @@ avatar_filename: Martina-Testori.jpeg
 bio: ""
 interests:
   - Cooperation
-  - Reputation
+  - Climate Change Campaigns
   - Sustainable development
+  - Reputation
   - Opinion dynamics
   - Agent-Based Model
 social:
